@@ -11,10 +11,10 @@ public class Main {
     // 按照定义的数据结构，创建一个Person
     PersonMsg.Person.Builder personBuilder = PersonMsg.Person.newBuilder();
     personBuilder.setId(1);
-    personBuilder.setName("叉叉哥");
-    personBuilder.setEmail("xxg@163.com");
-    personBuilder.addFriends("Friend A");
-    personBuilder.addFriends("Friend B");
+    personBuilder.setName("hezf");
+    personBuilder.setEmail("meixixizf24@gmail.com");
+    personBuilder.addFriends("duanyy");
+    personBuilder.addFriends("messi");
     PersonMsg.Person xxg = personBuilder.build();
     
     // 将数据写到输出流，如网络输出流，这里就用ByteArrayOutputStream来代替
