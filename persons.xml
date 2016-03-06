@@ -1,0 +1,10 @@
+<Person-array>
+  <Person>
+    <name>Jay</name>
+    <age>24</age>
+  </Person>
+  <Person>
+    <name>Tom</name>
+    <age>23</age>
+  </Person>
+</Person-array>
